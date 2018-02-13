@@ -1,0 +1,12 @@
+130ad9bd4bbf9759df24490c2f81fca3 *DESCRIPTION
+af7cf6a06cd3b790f48f28632dc3ee40 *LICENSE
+7fcc5b0b1fa960ef5b56d239a75c25eb *NAMESPACE
+c0ce88163bef920904c65920bd0957c6 *R/library_snapshot.R
+82b0e426cb95148e9fed2fb6c184a3de *R/package_dependencies.R
+1937a97b94096e3a09f91a4846917ef7 *R/resolve_dependencies.R
+7eb3972a7a962590362665902921faca *README.md
+650d7e37d3eb2330024835ad995199c7 *man/library_snapshot.Rd
+fb0e4c7d2e98fab807d1894040bef297 *man/package_dependencies.Rd
+afe04d253f57d88b011a1cb215c28d94 *man/session_dependencies.Rd
+5712d5d012e726ede683e5c1704e3a77 *tests/testthat.R
+dd06785f5a934726b01a228629952bff *tests/testthat/test_basic_usage.R
